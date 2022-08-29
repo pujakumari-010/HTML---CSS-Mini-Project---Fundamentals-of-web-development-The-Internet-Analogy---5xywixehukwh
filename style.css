@@ -1,0 +1,140 @@
+body {
+    font-family: 'Roboto Condensed', sans-serif;
+    margin: 0;
+    background: #eee;
+    height: auto;
+    display: block;
+}
+
+h1 {
+    font-weight: 400;
+    font-size: 2.5rem;
+    text-transform: uppercase;
+    margin: 0;
+}
+h2 {
+    font-weight: 400;
+    font-size: 1.2rem;
+    text-transform: capitalize;
+    margin: 0;
+}
+.btn {
+    padding: 0.5rem 2rem;
+    border: 1px #ccc solid;
+    display: inline-block;
+    margin: 2rem 0 0;
+    border-radius: 50px;
+    text-decoration: none;
+    color: #333;
+    transition: background 500ms ease;
+}
+#landing-text {
+    display: flex;
+    flex: 0 1 40vw;
+    height: 50vh;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding-right: 1rem;
+    padding-left: 1rem;
+}
+#landing {
+    display: flex;
+    height: 100%;
+    background: #fff;
+}
+div {
+    display: block;
+}
+#landing-image {
+    height: 100vh;
+}
+
+#landing-image {
+    background: url(https://th.bing.com/th/id/R.42c4eeb58d71bae3f3db311481ef3028?rik=BO%2b2NOne93qMXQ&riu=http%3a%2f%2fwallup.net%2fwp-content%2fuploads%2f2017%2f03%2f28%2f425586-nature-landscape-mountains-trees-forest-sunset-mist.jpg&ehk=0OV1BqPtXut3L%2fFg%2f6kHsY496avZ6WZLmW7bz%2brPj3s%3d&risl=&pid=ImgRaw&r=0);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 50vh;
+    flex: 0 1 60vw;
+    margin: 0;
+}
+
+#header {
+    padding: 1.5rem;
+    text-align: center;
+    background: #333;
+    color: #fff;
+}
+.caption1 {
+    padding: 0.8rem;
+    text-align: center;
+    background-color:rgb(187, 191, 175);
+    font-display:italic ;
+}
+    .caption2 {
+        padding: 0.8rem;
+        text-align: center;
+        background-color:rgb(211, 211, 95);
+}
+.caption3 {
+    padding: 0.8rem;
+    text-align: center;
+    background-color:rgb(49, 117, 132);
+}
+.caption4 {
+    padding: 0.8rem;
+    text-align: center;
+    background-color:rgb(138, 172, 107);
+}
+.caption5 {
+    padding: 0.8rem;
+    text-align: center;
+    background-color:lightpink;
+}
+img {
+    display: block;
+    width: 100%;
+}
+
+
+h3 {  
+    font-style: italic;
+    display: block;
+    font-size: 1.17em;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+
+}
+p { 
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-style: italic;
+    
+}
+footer h3 {
+    font-size: 3rem;
+    margin-bottom: 0;
+}
+footer {
+    text-align: center;
+    padding: 2rem 1rem;
+    margin: auto;
+    color: #333;
+}
+strong {
+    font-weight: bold;
+}
+
+
+
+
+
+
+
